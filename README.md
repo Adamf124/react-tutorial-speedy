@@ -1,3 +1,6 @@
+Across 24 hours I coded the React Tutorial Tic Tac Toe game. 
+This will be my second time coding it, but my first time doing it under any type of time constraints.
+It took me from 6 pm EST to 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
