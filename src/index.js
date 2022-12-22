@@ -24,6 +24,8 @@ class Square extends React.Component {
     };
     handleClick(i){
         const squares = this.state.squares.slice();
+        //.slice is a critical win
+        //immutibility is key for clean code
         squares[i]= 'X';
         this.setState({squares: squares})
     }
